@@ -1,0 +1,11 @@
+Admin,jose,luis,01/01/2000,admin,admin
+Socio,manolo,mas,03/02/1975,manolito,manolo,oro,03/02/2023,True
+Socio,roberto,moreno,03/02/1997,rober,rober,platino,03/02/2023,False
+Socio,laura,gomez,03/02/1998,laura,laura,platino,02/02/2023,False
+Entrenador,amalia,diego,03/02/1967,amalia,amalia,pilates
+Entrenador,alejandro,martinez,03/02/1996,alexmar,alex,spinning
+Entrenador,saul,blanco,03/02/1993,saul22,saul,pilates
+Socio,alejandro,mas,04/03/1997,alexmas44,alex,platino,03/03/2023,True
+Socio,luis,martinez,02/02/1996,luis22,luis,platino,03/02/2023,False
+Socio,manuel,sanchez,03/03/1992,manuel22,manuel,platino,03/02/2023,False
+Socio,gabriel,aguirre,03/04/1991,gabri,gabri,oro,04/02/2023,False

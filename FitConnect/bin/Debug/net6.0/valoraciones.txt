@@ -1,0 +1,5 @@
+manolito,genial,5
+rober,esta genial!,8
+alexmas44,buen trato,7
+manolito,mucha variedad,9
+luis22,clases divertidas,9
